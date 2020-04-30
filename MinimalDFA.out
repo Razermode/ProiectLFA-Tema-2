@@ -1,0 +1,11 @@
+Noul numar de stari si lungimea alfabetului: 2 2
+Noul alfabet al limbajului: 
+a b 
+Noua stare initiala: 0
+Noul numar de stari finale: 1
+Noile stari finale:
+1 
+Noile tranzitii ale automatului:
+0 a 0
+0 b 1
+1 a 1
